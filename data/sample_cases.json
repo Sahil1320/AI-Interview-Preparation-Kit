@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-stripe-backend",
+    "jd": "Stripe is looking for a Software Engineer - Backend to join our Payments team. Requirements: 4+ years software development experience. Strong proficiency in Java, Go, or Ruby. Deep understanding of distributed systems, concurrency, and idempotent API design. Must have experience with PostgreSQL or MySQL and handling transaction isolation. Nice to have: experience in fintech, PCI-DSS compliance, or AWS.",
+    "company_url": "https://stripe.com",
+    "days": 7
+  },
+  {
+    "id": "case-airbnb-frontend",
+    "jd": "Airbnb is hiring a Frontend Engineer for Guest Experience. Responsibilities: Build performant user interfaces using React, Next.js, and TypeScript. Collaborate with product design to ship accessible, responsive components. Requirements: 3+ years experience with modern JavaScript/TypeScript, state management, and web performance optimization. Must have strong cross-functional communication and user-centric mindset. Bonus: experience with design systems and GraphQL.",
+    "company_url": "https://airbnb.com",
+    "days": 5
+  }
+]
